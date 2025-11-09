@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    }
+
+p {
+    font-size: 20px;
+    margin-bottom: 50px;
+    background-color: beige;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+a {
+    color: rgb(255, 184, 3);
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+}
+
+ol {
+    font-size: 20px;
+    margin-bottom: 50px;
+    background-color:bisque;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
